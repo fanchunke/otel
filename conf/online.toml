@@ -1,0 +1,6 @@
+[http]
+port = 8000
+timeout_sec = 10
+
+[lark]
+webhook_url = "https://open.feishu.cn/open-apis/bot/v2/hook/xxxxx"
